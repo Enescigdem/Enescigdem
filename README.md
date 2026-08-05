@@ -2,7 +2,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Enescigdem&label=Profile%20views&color=8a2be2&style=flat)
 
 
-**Computer Engineer | AI Researcher | NLP & Audio Enthusiast**
+**AI Researcher | NLP & Audio Enthusiast**
 
 🔍 **Current Focus**
 - Exploring **self-supervised learning**, **LLMs**, and **audio understanding**
